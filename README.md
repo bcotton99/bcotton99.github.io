@@ -1,5 +1,5 @@
 # bcotton99.github.io
 
-Public site for Mechanos (custom 3D printing info page).
+Hosts the Tesla Fleet API public key for personal use under `.well-known/`.
 
-Also hosts the Tesla Fleet API public key under `.well-known/` for personal vehicle access.
+Business site: https://mechanose.github.io
